@@ -1,0 +1,7 @@
+print(3 or 7)
+print(-3 or 0)
+print(-3 or None)
+print(None or -3)
+print([] or 100)
+print([] or None)
+print(None or [])

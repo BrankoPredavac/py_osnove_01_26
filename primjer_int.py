@@ -18,3 +18,12 @@ print(cjelobrojno_djeljenje)
 
 potenciranje = prvi_broj**drugi_broj
 print(potenciranje)
+
+
+# broj_pocinje_s_nulom = 038
+# veliki_broj = 10 000 000
+veliki_broj = 10000000
+print(veliki_broj)
+
+veliki_broj = 10_000_000
+print(veliki_broj)
