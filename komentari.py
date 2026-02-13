@@ -1,5 +1,6 @@
 # Ovo je komentar
 
+# fafafafa
 
 # print("Ovo nije komentar")
 print("Ovo komentar")
