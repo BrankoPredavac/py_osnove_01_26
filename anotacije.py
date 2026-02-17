@@ -27,5 +27,4 @@ print(zbrajnaje(prvi_broj="Idemo ", drugi_broj=" dalje"), end="\n\n")
 print(zbrajnaje(prvi_broj=[636, 99, 88], drugi_broj=[77, 44, 11]), end="\n\n")
 print(zbrajnaje(prvi_broj=True, drugi_broj=False), end="\n\n")
 
-
 print("Gotovo")
